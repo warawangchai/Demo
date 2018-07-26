@@ -1,0 +1,992 @@
+[
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532597515349,
+            "changeTime": 1532597515349,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532597515350,
+            "changeTime": 1532597515350,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1532599598963,
+            "changeTime": 1532599598963,
+            "contentHash": "f72ee6ed1a8a0cb2fdd5c8c87b0476916b7158d2"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532597515351,
+            "changeTime": 1532597515351,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1532597515352,
+            "changeTime": 1532597515352,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1532597515352,
+            "changeTime": 1532597515352,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1532597515353,
+            "changeTime": 1532597515353,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1532597515353,
+            "changeTime": 1532597515353,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1532597515354,
+            "changeTime": 1532597515354,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1532597515354,
+            "changeTime": 1532597515354,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1532599598986,
+            "changeTime": 1532599598986,
+            "contentHash": "c4a37ec496e0020e509084f67af6a82df19cb43f"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 697,
+            "modifiedTime": 1532597515356,
+            "changeTime": 1532597515356,
+            "contentHash": "65b68eb44f9df869a9d82daa6fb3d7e7df8f5506",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17735,
+            "modifiedTime": 1532597515358,
+            "changeTime": 1532597515358,
+            "contentHash": "577faf2c38ad0facaee74f2e5148421a730e12ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4318,
+            "modifiedTime": 1532597515359,
+            "changeTime": 1532597515359,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4318,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4656,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "ce778873484c0c0b2495cab1054c46dcae9f187d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "d909c1fd6abf652f433f8a37f0d6819fa44ec6c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1532598891350,
+            "changeTime": 1532598891350,
+            "contentHash": "4863373689f9fd5ed5eb18454ec1a73a53dc79de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532599009832,
+            "changeTime": 1532599009832,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532598981882,
+            "changeTime": 1532598981882,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532598981894,
+            "changeTime": 1532598981894,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532598981889,
+            "changeTime": 1532598981889,
+            "contentHash": "91a6295f36fbab4146e029b441730c506fcb41fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532598981883,
+            "changeTime": 1532598981883,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage/Storage.cmp",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage/Storage.cmp",
+            "isDirectory": false,
+            "size": 904,
+            "modifiedTime": 1532598981883,
+            "changeTime": 1532598981883,
+            "contentHash": "d0bf7061c0b460ad409760898e914445f2227160",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage/Storage.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/Storage/Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1532598981883,
+            "changeTime": 1532598981883,
+            "contentHash": "460eac2dac483fded990b3bbd9d9a88f5d262001",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1532598981887,
+            "changeTime": 1532598981887,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.cmp",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5392,
+            "modifiedTime": 1532598981884,
+            "changeTime": 1532598981884,
+            "contentHash": "52bd3832f49acef3730a6cef4b903ce10bc65c50",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1532598981884,
+            "changeTime": 1532598981884,
+            "contentHash": "a9b505ea6ac6342161ab3bffd71e9b1b2a79c7a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.css",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.css",
+            "isDirectory": false,
+            "size": 1227,
+            "modifiedTime": 1532598981885,
+            "changeTime": 1532598981885,
+            "contentHash": "280c04e3286ef575957a7b84a0d74998902fe337",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.design",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.design",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1532598981886,
+            "changeTime": 1532598981886,
+            "contentHash": "0b37241e6e873aed38fb558948b23cf10440954f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.svg",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1015,
+            "modifiedTime": 1532598981886,
+            "changeTime": 1532598981886,
+            "contentHash": "5b8e1a553f08203efb591c78d0ae2db10e572aec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoController.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1052,
+            "modifiedTime": 1532598981886,
+            "changeTime": 1532598981886,
+            "contentHash": "eed2b073967ffab883d0a1fabec595173078c267",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoHelper.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5787,
+            "modifiedTime": 1532598981887,
+            "changeTime": 1532598981887,
+            "contentHash": "7d642941e9db2957726f8d8f02b1cd34f767bcf4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoRenderer.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpDemo/YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 722,
+            "modifiedTime": 1532598981887,
+            "changeTime": 1532598981887,
+            "contentHash": "6408303208163aba9389fdc0027288737ee0b02e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532598981889,
+            "changeTime": 1532598981889,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpService.cmp",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpService.cmp",
+            "isDirectory": false,
+            "size": 818,
+            "modifiedTime": 1532598981887,
+            "changeTime": 1532598981887,
+            "contentHash": "376035b755e2a9ec6450cae66dec3a04cf06504a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1532598981888,
+            "changeTime": 1532598981888,
+            "contentHash": "4a434a4766e2d54975905af10afd328680b4d87d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpServiceController.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpServiceController.js",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1532598981888,
+            "changeTime": 1532598981888,
+            "contentHash": "3cccdf7894edb69a4d63d900050610735fa81d00",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpServiceHelper.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/YelpService/YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 1989,
+            "modifiedTime": 1532598981889,
+            "changeTime": 1532598981889,
+            "contentHash": "453acfaedbfce74a4bc1e1d155f299e84b41e526",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532598981890,
+            "changeTime": 1532598981890,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved/dataRetrieved.evt",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved/dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1532598981889,
+            "changeTime": 1532598981889,
+            "contentHash": "39ecb6f2ef2c4910c4bce841f2ffa26068c1ad7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved/dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/aura/dataRetrieved/dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1532598981890,
+            "changeTime": 1532598981890,
+            "contentHash": "a9b505ea6ac6342161ab3bffd71e9b1b2a79c7a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1532598981893,
+            "changeTime": 1532598981893,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 657,
+            "modifiedTime": 1532598981890,
+            "changeTime": 1532598981890,
+            "contentHash": "77a1763d205a991ac5d188a83705366b24aae5a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1532598981891,
+            "changeTime": 1532598981891,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 809,
+            "modifiedTime": 1532598981891,
+            "changeTime": 1532598981891,
+            "contentHash": "fcf03979d1e4017dbaebd6a9274f6b1b39cac63d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1532598981892,
+            "changeTime": 1532598981892,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpDemoController.cls",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1036,
+            "modifiedTime": 1532598981892,
+            "changeTime": 1532598981892,
+            "contentHash": "02c0f3efe636b12f89423dda6acf79c851f8a717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1532598981893,
+            "changeTime": 1532598981893,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpServiceController.cls",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1115,
+            "modifiedTime": 1532598981893,
+            "changeTime": 1532598981893,
+            "contentHash": "7ca1dae34d0c5920bed214c33fbec64bed86c8d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/classes/YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1532598981894,
+            "changeTime": 1532598981894,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532598981894,
+            "changeTime": 1532598981894,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/remoteSiteSettings/YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/remoteSiteSettings/YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 268,
+            "modifiedTime": 1532598981894,
+            "changeTime": 1532598981894,
+            "contentHash": "293c05f2bca3ea27bce95ecb1680562213d0c9c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532598981897,
+            "changeTime": 1532598981897,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1532598981896,
+            "changeTime": 1532598981896,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/YelpDemo/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1532598981898,
+            "changeTime": 1532598981898,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3922,
+            "modifiedTime": 1532599598968,
+            "changeTime": 1532599598968,
+            "contentHash": "de30eba9e5f36f11657cdc19ac079bcf3d22ab1e"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532599598978,
+            "changeTime": 1532599598978,
+            "contentHash": "abbfb672a335fc95f5d57e1f2e15bf66826b0d28"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532599598986,
+            "changeTime": 1532599598986,
+            "contentHash": "abbfb672a335fc95f5d57e1f2e15bf66826b0d28"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532599598968,
+            "changeTime": 1532599598968,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532599598965,
+            "changeTime": 1532599598965,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ]
+]

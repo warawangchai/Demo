@@ -1,0 +1,362 @@
+[
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532597515349,
+            "changeTime": 1532597515349,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532597515350,
+            "changeTime": 1532597515350,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "4bb1d4a60f2ccd9c3c1a9d36a616be25289d5573",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532597515351,
+            "changeTime": 1532597515351,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1532597515352,
+            "changeTime": 1532597515352,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1532597515352,
+            "changeTime": 1532597515352,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1532597515353,
+            "changeTime": 1532597515353,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1532597515353,
+            "changeTime": 1532597515353,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1532597515354,
+            "changeTime": 1532597515354,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1532597515354,
+            "changeTime": 1532597515354,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1532597515355,
+            "changeTime": 1532597515355,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532597515356,
+            "changeTime": 1532597515356,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 697,
+            "modifiedTime": 1532597515356,
+            "changeTime": 1532597515356,
+            "contentHash": "65b68eb44f9df869a9d82daa6fb3d7e7df8f5506",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17735,
+            "modifiedTime": 1532597515358,
+            "changeTime": 1532597515358,
+            "contentHash": "577faf2c38ad0facaee74f2e5148421a730e12ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4318,
+            "modifiedTime": 1532597515359,
+            "changeTime": 1532597515359,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4318,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4656,
+            "modifiedTime": 1532597515360,
+            "changeTime": 1532597515360,
+            "contentHash": "ce778873484c0c0b2495cab1054c46dcae9f187d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "d909c1fd6abf652f433f8a37f0d6819fa44ec6c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wara/Documents/heroku/training/Demo",
+        {
+            "sourcePath": "/Users/wara/Documents/heroku/training/Demo",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1532597515361,
+            "changeTime": 1532597515361,
+            "contentHash": "dc80a4dbb45e5292a3477593a45a05962dc3b21f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
