@@ -1,0 +1,7 @@
+{
+    "orgName": "wara Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
